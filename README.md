@@ -16,5 +16,5 @@ Ouput: List of TV programs which its starts FROM at 06:00:00 01-01-2022 TO at 02
 Notes: Using SHA-1 hash function for robustness of TV titles.
 
 # Trimming video based on the information that extracted.
-Notes: Record video 20 hours per day (from 06:00 to 02:00 of next day)
+Notes: Recorded videos are 20 hours long per day (from 06:00 to 02:00 of next day).
 
